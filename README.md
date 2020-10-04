@@ -18,7 +18,7 @@
 
 ---
 
-First of all, let’s dive into coprosAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
+First of all, let’s dive into CoprosAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/ezgif.com-crop.gif" height=500 width=300></img></p>
 
