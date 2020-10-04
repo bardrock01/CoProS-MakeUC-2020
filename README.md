@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/logokavach.png" height=200 width=200 ></img></p>
 
-<p align="center"> We are very delighted to present our idea in <strong><em>Make UC 2020</em></strong>, hope you like it. Our idea Kawach is an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.</p>
+<p align="center"> We are very delighted to present our idea in <strong><em>Make UC 2020</em></strong>, hope you like it. Our idea <strong>COPROS</strong> is an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.</p>
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/Android-PNG-HD.png" height=200 width=200></img><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/pngegg.png" height=200 width=200></img></p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-First of all, let’s dive into KawachAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
+First of all, let’s dive into coprosAR powered by echoAR SDK to provide a more immersive experience to the user to visually show them the boundaries needed to maintain social distancing. We have also implemented ground plane detection to have your own personal safe zone in the real world.
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/ezgif.com-crop.gif" height=500 width=300></img></p>
 
@@ -33,7 +33,7 @@ The Stores feature of our app helps in linking people with their nearby stores t
 
 ---
 
-Besides these features, our app is also of great help to the authorities who are concerned about the COVID spread in their region. The app detects any nearby COPROS user and stores their unique ID  as an entry to the user’s collection in the Firebase database.  In case someone tests positive, this will help in the contact tracing of the individuals and,  a precautionary alert will be sent to all the nearby Kawach Users so that they could exercise maximum restraint. 
+Besides these features, our app is also of great help to the authorities who are concerned about the COVID spread in their region. The app detects any nearby COPROS user and stores their unique ID  as an entry to the user’s collection in the Firebase database.  In case someone tests positive, this will help in the contact tracing of the individuals and,  a precautionary alert will be sent to all the nearby COPROS Users so that they could exercise maximum restraint. 
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/firestore.png" height=500 width=1000></img></p>
 
@@ -48,6 +48,6 @@ The users can also give feedback, take a survey about his infection status, and 
 ## About Me :
 1. __Kartik Gupta__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.linkedin.com/in/thisiskartikgupta">Linkedin</a> <a href="http://www.github.com/thisiskartikgupta">Github</a>
 1. __Sankalp Jaitly__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/sankalp-jaitly-6106071a7/">Linkedin</a> <a href="https://github.com/bardrock01">Github</a>
-1. __Saurabh Chaudhary__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/saurabh-chaudhary-021902194/">Linkedin</a> <a href="https://github.com/saurabhcr007">Github</a>
+1. __Kushagra Goel__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/kushagra-goel-24d/">Linkedin</a> <a href="https://github.com/kushagra-0-1">Github</a>
 
 ---
