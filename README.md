@@ -28,7 +28,7 @@ The Stores feature of our app helps in linking people with their nearby stores t
 
 <p align="center">
 <img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/shop01.png" height=450 width=250 hspace=10></img>
-<img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/shop01.png" height=450 width=250 hspace=10></img>
+<img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/shop02.png" height=450 width=250 hspace=10></img>
 </p>
 
 ---
@@ -47,5 +47,7 @@ The users can also give feedback, take a survey about his infection status, and 
 
 ## About Me :
 1. __Kartik Gupta__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.linkedin.com/in/thisiskartikgupta">Linkedin</a> <a href="http://www.github.com/thisiskartikgupta">Github</a>
+1. __Sankalp Jaitly__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/sankalp-jaitly-6106071a7/">Linkedin</a> <a href="https://github.com/bardrock01">Github</a>
+1. __Saurabh Chaudhary__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.linkedin.com/in/saurabh-chaudhary-021902194/">Linkedin</a> <a href="https://github.com/saurabhcr007">Github</a>
 
 ---
