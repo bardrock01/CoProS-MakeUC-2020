@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/logokavach.png" height=200 width=200 ></img></p>
 
-<p align="center"> We are very delighted to present our idea in <strong><em>Make UC 2020</em></strong>, hope you like it. Our idea <strong>COPROS</strong> is an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.</p>
+<p align="center"> We are very delighted to present our idea in <strong><em>Make UC 2020</em></strong>, hope you like it. Our idea <strong>COPROS</strong> is an Android/iOS app that can act as a shield in this Pandemic and even post-pandemic situation.</p>
 
 <p align="center"><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/Android-PNG-HD.png" height=200 width=200></img><img src="https://github.com/thisiskartikgupta/CoProS-MakeUC-2020/blob/main/readme_resources/pngegg.png" height=200 width=200></img></p>
 
